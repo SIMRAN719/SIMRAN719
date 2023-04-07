@@ -1,4 +1,4 @@
-![logo](https://cdn.discordapp.com/attachments/1087008699459043451/1093876538065309797/20230407_18011120.mp4)
+![MasterHead](https://github.com/SIMRAN719/SIMRAN719/blob/main/WhatsApp%20Image%202023-04-07%20at%206.34.07%20PM.jpeg)
 
 <h1 align="center"> Yo, I'm Simran</h1>
 <h3 align="center">Code, coffee, and endless possibilities on Github</h3>
