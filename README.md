@@ -2,7 +2,7 @@
 
 <h1 align="center"> Yo, I'm Simran</h1>
 <h3 align="center">Code, coffee, and endless possibilities on Github</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/GfGDMtraiJEGqdLr6">
+
 
 - 🌱 I’m currently learning **React**
 
