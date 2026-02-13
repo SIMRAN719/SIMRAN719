@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SIMRAN719/SIMRAN719/blob/main/github_banner.jpg)
+![MasterHead](https://github.com/SIMRAN719/SIMRAN719/blob/main/Banner.png)
 <!--
 <h1 align="center">Yo, I'm Simran</h1>
 -->
@@ -7,16 +7,18 @@
   align="right">Code, Coffee, and Endless possibilities on Github
 </h2>
 
-Hey! I’m Simran – powered by coffee, code, and curiosity.
+Hey! I’m Simran, powered by coffee, code, and curiosity.
 A part-time coder, full-time problem solver, turning messy ideas into cool projects, one commit at a time.
 
 ### ✨ About Me  
 
 * 🎓 **Computer Science Engineer | Delivery Data Analyst @[Turing](https://www.turing.com/)**   
 * 💡 Passionate about **AI, ML, LLMs, and Data Analytics** 
-* 📚 Love music, anime, and sweet rom-coms. 
-* ⚡ Ask me about my fav type of date? It's **DD/MM/YYYY**
+* 📚 Love music, anime, and sweet rom-coms.
+<!-- 
 * 📫 Reach me at **hasnarmis.work@gmail.com** 
+* ⚡ Ask me about my fav type of date? It's **DD/MM/YYYY** 
+-->
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran719" alt="simran719" /></a> </p>
@@ -24,9 +26,11 @@ A part-time coder, full-time problem solver, turning messy ideas into cool proje
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/simrannnn_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simrannnn_19" height="30" width="40" /></a>
+<a href="https://x.com/simrannnn_19" target="blank"><img align="center" src="https://img.shields.io/badge/-black.svg?logo=x&logoColor=white" alt="simrannnn_19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simransah19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simransah19" height="30" width="40" /></a>
 <a href="https://instagram.com/cyanpicsque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyanpicsque" height="30" width="40" /></a>
+<a href="https://oftensimran.medium.com/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="oftensimran.medium" height="30" width="40" /></a>
+
 <!--<a href="https://www.youtube.com/c/bytewatch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bytewatch_" height="30" width="40" /></a> -->
 </p>
 
